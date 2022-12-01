@@ -390,7 +390,7 @@ color:var(--light-color);
 }
 
 .footer{
-    position: sticky;
+    
     bottom: 0; right: 0;left: 0;
     background-color: var(--white);
     padding: 2.5rem 2rem;
